@@ -1,0 +1,22 @@
+﻿@model IEnumerable<ReadTicketsVM>
+
+@{
+    var TicketsList = Model;
+}
+
+@foreach (var Ticket in TicketsList)
+{
+    <div>
+        <div>
+            <h4>Title : @(Ticket.Title)</h4>
+            <h5>@(Ticket.Severity)</h5>
+            <h5>Description : @(Ticket.Description)</h5>
+            <h5>Department : @(Ticket.Department)</h5>
+            <h5> Developers #: @(Ticket.Developers)</h5>
+
+            <div>
+                <a href="/Tickets/Details/@(Ticket.Id)">Details</a>
+            </div>
+        </div>
+    </div>
+}

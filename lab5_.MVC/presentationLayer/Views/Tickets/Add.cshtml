@@ -1,0 +1,35 @@
+﻿@model AddTicketsVM;
+
+<div>
+    <div>
+        <form asp-action="Add" method="post">
+
+            <div>
+                <label asp-for="Title"></label>
+                <input class="form-control" asp-for="Title" />
+            </div>
+
+            <div>
+                <label asp-for="Severity"></label>
+                <select asp-for="Severity" asp-items="Html.GetEnumSelectList<Severity>()"></select>
+            </div>
+
+            <div>
+                <label asp-for="Description"></label>
+                <input class="form-control" asp-for="Description" />
+            </div>
+
+            <div>
+                <label asp-for="Department"></label>
+                <select class="form-control" asp-for="Department" asp-items="ViewBag.Departments"></select>
+            </div>
+
+            <div>
+                <label asp-for="Developers"></label>
+                <select class="form-control" asp-for="Developers" asp-items="ViewBag.Developers"></select>
+            </div>
+
+            <button> add </button>
+        </form>
+    </div>
+</div>

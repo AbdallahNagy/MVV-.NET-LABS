@@ -1,0 +1,14 @@
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+D:\practices\ITI-MVC-Labs\lab4\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

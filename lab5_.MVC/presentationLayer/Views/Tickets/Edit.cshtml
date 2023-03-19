@@ -1,0 +1,40 @@
+﻿@model EditTicketsVM;
+
+<div>
+    <div>
+        <form asp-action="Edit" method="post">
+
+            <div>
+                <label asp-for="Id"></label>
+                <input type="hidden" class="form-control" asp-for="@Model.Id" />
+            </div>
+
+            <div>
+                <label asp-for="Title"></label>
+                <input asp-for="@Model.Title" />
+            </div>
+
+            <div>
+                <label asp-for="Severity"></label>
+                <select asp-for="@Model.Severity" asp-items="Html.GetEnumSelectList<Severity>()"></select>
+            </div>
+
+            <div>
+                <label asp-for="Description"></label>
+                <input asp-for="@Model.Description" />
+            </div>
+            
+            <div>
+                <label asp-for="Department"></label>
+                <select asp-for="@Model.Department" asp-items="ViewBag.Departments"></select>
+            </div>
+            
+            <div>
+                <label asp-for="@Model.Developers"></label>
+                <select asp-for="@Model.Developers" asp-items="ViewBag.Developers"></select>
+            </div>
+
+            <button> edit </button>
+        </form>
+    </div>
+</div>

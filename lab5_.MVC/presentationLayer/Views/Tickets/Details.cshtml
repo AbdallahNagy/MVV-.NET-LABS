@@ -1,0 +1,18 @@
+﻿@model ReadTicketsVM;
+@{
+    var Ticket = Model;
+}
+<div>
+    <ul>
+        <li>Title : @(Ticket.Title)</li>
+        <li class="text-danger">Severity : @(Ticket.Severity)</li>
+        <li class="text-success">Description : @(Ticket.Description)</li>
+        <li class="text-success">Department : @(Ticket.Department)</li>
+        <li class="text-success">Number of Developers : @(Ticket.Developers)</li>
+    </ul>
+    <div">
+        <a href="/Tickets/Edit/@(Ticket.Id)"> Edit </a>
+</div>
+<div>
+    <a href="/Tickets/Delete/@(Ticket.Id)">Delete</a>
+</div>
