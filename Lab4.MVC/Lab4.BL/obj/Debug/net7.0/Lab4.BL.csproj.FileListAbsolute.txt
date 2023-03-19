@@ -1,0 +1,17 @@
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\bin\Debug\net7.0\Lab4.BL.deps.json
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\bin\Debug\net7.0\Lab4.BL.runtimeconfig.json
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\bin\Debug\net7.0\Lab4.BL.dll
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\bin\Debug\net7.0\Lab4.BL.pdb
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\bin\Debug\net7.0\Lab4.DAL.dll
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\bin\Debug\net7.0\Lab4.DAL.pdb
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.AssemblyInfo.cs
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.csproj.CopyComplete
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.dll
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\refint\Lab4.BL.dll
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.pdb
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\Lab4.BL.genruntimeconfig.cache
+D:\Visual Studio Projects\Lab4.MVC\Lab4.BL\obj\Debug\net7.0\ref\Lab4.BL.dll

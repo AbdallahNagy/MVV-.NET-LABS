@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.MVC", "Lab4.MVC\Lab4.MVC.csproj", "{B9401FAD-2481-4555-9F60-3A8153FEB081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.BL", "Lab4.BL\Lab4.BL.csproj", "{2088664D-7E61-4FBC-BB10-408AFA86DF99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab4.DAL", "Lab4.DAL\Lab4.DAL.csproj", "{D3200897-203D-4D70-9BAC-C5F0E1B6CC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9401FAD-2481-4555-9F60-3A8153FEB081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9401FAD-2481-4555-9F60-3A8153FEB081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9401FAD-2481-4555-9F60-3A8153FEB081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9401FAD-2481-4555-9F60-3A8153FEB081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2088664D-7E61-4FBC-BB10-408AFA86DF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2088664D-7E61-4FBC-BB10-408AFA86DF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2088664D-7E61-4FBC-BB10-408AFA86DF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2088664D-7E61-4FBC-BB10-408AFA86DF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3200897-203D-4D70-9BAC-C5F0E1B6CC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3200897-203D-4D70-9BAC-C5F0E1B6CC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3200897-203D-4D70-9BAC-C5F0E1B6CC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3200897-203D-4D70-9BAC-C5F0E1B6CC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1944540-0FF8-410C-807A-12CACD6742CB}
+	EndGlobalSection
+EndGlobal

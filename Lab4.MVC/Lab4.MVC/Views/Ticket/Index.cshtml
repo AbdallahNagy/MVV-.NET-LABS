@@ -1,0 +1,17 @@
+﻿@using Lab4.BL.ViewModels
+@model List<ReadTicketVM>
+
+<div>
+    <h1>tickets</h1>
+    @{
+        foreach (var ticket in Model)
+        {
+            <p>@ticket.ToString()</p>
+            <form action="/Ticket/EditRoute/@(ticket.Id)">
+                <button>edit</button>
+            </form>
+        }
+    }
+
+    <a asp-action="AddRoute">add ticket</a>
+</div>
