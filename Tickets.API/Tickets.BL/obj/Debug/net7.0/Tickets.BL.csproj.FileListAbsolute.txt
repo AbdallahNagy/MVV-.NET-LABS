@@ -1,0 +1,15 @@
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\bin\Debug\net7.0\Tickets.BL.deps.json
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\bin\Debug\net7.0\Tickets.BL.dll
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\bin\Debug\net7.0\Tickets.BL.pdb
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\bin\Debug\net7.0\Tickets.DAL.dll
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\bin\Debug\net7.0\Tickets.DAL.pdb
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.AssemblyInfo.cs
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.csproj.CopyComplete
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.dll
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\refint\Tickets.BL.dll
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\Tickets.BL.pdb
+E:\Visual Studio Projects\Tickets.API\Tickets.BL\obj\Debug\net7.0\ref\Tickets.BL.dll
