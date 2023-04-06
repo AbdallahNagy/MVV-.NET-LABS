@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.API\\LastApiLab.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.API\\LastApiLab.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.API\\LastApiLab.API.csproj",
+        "projectName": "LastApiLab.API",
+        "projectPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.API\\LastApiLab.API.csproj",
+        "packagesPath": "C:\\Users\\Al Badr\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Al Badr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.BL\\LastApiLab.BL.csproj": {
+                "projectPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.BL\\LastApiLab.BL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.BL\\LastApiLab.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.BL\\LastApiLab.BL.csproj",
+        "projectName": "LastApiLab.BL",
+        "projectPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.BL\\LastApiLab.BL.csproj",
+        "packagesPath": "C:\\Users\\Al Badr\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Al Badr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.DAL\\LastApiLab.DAL.csproj": {
+                "projectPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.DAL\\LastApiLab.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.DAL\\LastApiLab.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.DAL\\LastApiLab.DAL.csproj",
+        "projectName": "LastApiLab.DAL",
+        "projectPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.DAL\\LastApiLab.DAL.csproj",
+        "packagesPath": "C:\\Users\\Al Badr\\.nuget\\packages\\",
+        "outputPath": "E:\\Visual Studio Projects\\LastApiLab.API\\LastApiLab.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Al Badr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.28.1, )"
+            },
+            "microsoft.aspnetcore.authentication.jwtbearer": {
+              "target": "Package",
+              "version": "[7.0.4, )"
+            },
+            "microsoft.aspnetcore.identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "microsoft.identitymodel.tokens": {
+              "target": "Package",
+              "version": "[6.28.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LastApiLab.API.props" />
+</Project>

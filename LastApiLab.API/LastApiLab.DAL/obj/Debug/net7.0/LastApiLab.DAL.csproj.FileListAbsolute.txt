@@ -1,0 +1,14 @@
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\bin\Debug\net7.0\LastApiLab.DAL.deps.json
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\bin\Debug\net7.0\LastApiLab.DAL.runtimeconfig.json
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\bin\Debug\net7.0\LastApiLab.DAL.dll
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\bin\Debug\net7.0\LastApiLab.DAL.pdb
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.AssemblyInfo.cs
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.dll
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\refint\LastApiLab.DAL.dll
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.pdb
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\LastApiLab.DAL.genruntimeconfig.cache
+E:\Visual Studio Projects\LastApiLab.API\LastApiLab.DAL\obj\Debug\net7.0\ref\LastApiLab.DAL.dll
