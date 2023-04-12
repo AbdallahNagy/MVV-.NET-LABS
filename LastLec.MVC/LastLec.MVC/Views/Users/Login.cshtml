@@ -1,0 +1,15 @@
+﻿@using LastLec.MVC.DTOs;
+@model LoginDTO
+
+<form asp-action="Login" method="post">
+    <div class="form-group">
+        <label asp-for="username"></label>
+        <input class="form-control" asp-for="username"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="password"></label>
+        <input class="form-control" asp-for="password" />
+    </div>
+
+    <button class="btn btn-primary">submit</button>
+</form>

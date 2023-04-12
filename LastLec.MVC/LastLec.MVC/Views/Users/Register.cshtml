@@ -1,0 +1,25 @@
+﻿@using LastLec.MVC.DTOs;
+@model RegisterDTO
+
+<form asp-action="Register" method="post">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="username"></label>
+        <input class="form-control" asp-for="username"/>
+    </div>
+    <div class="form-group">
+        <label asp-for="email"></label>
+        <input class="form-control" asp-for="email" />
+    </div>
+    <div class="form-group">
+        <label asp-for="birthDate"></label>
+        <input class="form-control" asp-for="birthDate" />
+    </div>
+    <div class="form-group">
+        <label asp-for="password"></label>
+        <input class="form-control" asp-for="password" />
+    </div>
+
+    <button class="btn btn-primary">submit</button>
+</form>
